@@ -34,7 +34,7 @@ The Sales Summary dashboard provides a comprehensive view of sales performance, 
 
 ## Data Source
 
-The data for this dashboard is sourced from an Excel file, updated on a [specify frequency, e.g., daily, weekly, monthly] basis to ensure accuracy and timeliness.
+The data for this dashboard is sourced from an Excel file, updated on a monthly basis to ensure accuracy and timeliness.
 
 ## Technical Details
 
